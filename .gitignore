@@ -17,3 +17,5 @@ HPC_job.pbs*
 *.gif
 
 .DS_Store
+results/
+results/
