@@ -15,3 +15,5 @@ HPC_job.pbs*
 
 # GIFS
 *.gif
+
+.DS_Store
